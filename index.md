@@ -25,5 +25,5 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ## For more projects see：
 
-- [**PicStory**](https://https://vwslz.github.io/PicStory/)
+- [**PicStory**](https://vwslz.github.io/PicStory/)
 
